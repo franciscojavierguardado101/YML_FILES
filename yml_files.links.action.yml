@@ -1,0 +1,7 @@
+yml_files.add_article_content:
+  route_name: node.add 
+  title: "Add Article Content" 
+  appears_on:
+  - "system.admin_content" 
+route_parameters:
+  node_type: article

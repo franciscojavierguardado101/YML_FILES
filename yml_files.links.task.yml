@@ -1,0 +1,5 @@
+yml_files.content_type_page:
+  route_name: entity.node_type.collection
+  title: Content types
+  base_route: system.admin_content
+  

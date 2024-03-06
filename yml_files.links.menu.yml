@@ -1,0 +1,9 @@
+ym1_files.abc:
+  title: Menu link 1
+  route_name: entity. node_type.collection
+  expanded: TRUE
+  menu_name: main 
+yml_files.def:
+  title: Menu Link 2
+  route_name: node. type_add 
+  parent: ym1_files.abc
